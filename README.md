@@ -1,5 +1,7 @@
 # Go Bindings for LXC (Linux Containers)
 
+[![Join the chat at https://gitter.im/dropbox/go-lxc](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dropbox/go-lxc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This package implements [Go](http://golang.org) bindings for the [LXC](http://linuxcontainers.org/) C API (liblxc).
 
 ## Requirements
